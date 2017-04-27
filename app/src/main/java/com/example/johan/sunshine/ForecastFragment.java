@@ -92,7 +92,6 @@ public class ForecastFragment extends Fragment {
 
         listView.setAdapter(mForecastAdapter);
 
-
         return rootView;
     }
 
